@@ -73,7 +73,7 @@ Sonic Pi's built in tutorial has been translated into several languages thanks t
 :it:         | Italian       | in progress |              | @marco-giordano |
 :ru:         | Russian       | in progress |              | @RomanSaveljev, @dcromster |
 :pt:         | Portuguese    | in progress |              | @SiIky |
-:sp:         | Spanish       | in progress |              | @merongivian, @thraex41 |
+:es:         | Spanish       | in progress |              | @merongivian, @thraex41 |
 :nl:         | Dutch         | in progress | @DuchessFounder | @DuchessFounder, @PrisDiest |
 :gr:         | Greek         | in progress | @aspra       | @aspra |
 :nb:         | Norwegian Bokmål | in progress | @petterreinholdtsen | @petterreinholdtsen |
